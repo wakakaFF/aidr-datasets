@@ -1,0 +1,16 @@
+regime_column,regime_value,support,positive_rate,accuracy,precision,recall,f1,roc_auc,pr_auc,brier_score,subgroup_scope
+attack_family,existing_stream_patch,73,1.0,0.9041095890410958,1.0,0.9041095890410958,0.9496402877697842,,,0.39655290528658327,injected_only
+attack_family,header_footer_like,68,1.0,1.0,1.0,1.0,1.0,,,0.30607120045874553,injected_only
+attack_family,in_page_invisible_text,74,1.0,0.918918918918919,1.0,0.918918918918919,0.9577464788732394,,,0.34830352186434904,injected_only
+attack_family,in_page_low_contrast_text,62,1.0,0.9354838709677419,1.0,0.9354838709677419,0.9666666666666667,,,0.34518275185080666,injected_only
+attack_family,in_page_split_text_objects,46,1.0,0.8913043478260869,1.0,0.8913043478260869,0.9425287356321839,,,0.3381021891543008,injected_only
+attack_family,in_page_tiny_text,68,1.0,1.0,1.0,1.0,1.0,,,0.24755871067931262,injected_only
+attack_family,in_page_white_text,51,1.0,0.9019607843137255,1.0,0.9019607843137255,0.9484536082474226,,,0.38645324923852037,injected_only
+attack_family,layout_mimicry,79,1.0,0.9873417721518988,1.0,0.9873417721518988,0.9936305732484076,,,0.3431156421294332,injected_only
+attack_family,margin_microtext,61,1.0,1.0,1.0,1.0,1.0,,,0.24604614194022628,injected_only
+attack_family,microglyph_steganography,66,1.0,0.9848484848484849,1.0,0.9848484848484849,0.9923664122137404,,,0.013083620158215592,injected_only
+attack_family,near_margin_normal_font,70,1.0,0.9,1.0,0.9,0.9473684210526315,,,0.3506132152051676,injected_only
+attack_family,plain_single_block,52,1.0,1.0,1.0,1.0,1.0,,,0.30730300460721083,injected_only
+attack_family,semantic_fragmentation,57,1.0,0.9298245614035088,1.0,0.9298245614035088,0.9636363636363636,,,0.34531409395469287,injected_only
+attack_family,split_text_objects,66,1.0,0.9545454545454546,1.0,0.9545454545454546,0.9767441860465116,,,0.26901989826331807,injected_only
+attack_family,steganographic_acrostic,80,1.0,0.9875,1.0,0.9875,0.9937106918238994,,,0.19267787107452436,injected_only

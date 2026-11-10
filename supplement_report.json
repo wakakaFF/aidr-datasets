@@ -1,0 +1,142 @@
+[
+  {
+    "repo": "nvidia/Nemotron-Safety-Guard-Dataset-v3",
+    "path": ".gitattributes",
+    "status": "ok",
+    "sha256": "2f4c64539ef6f874e030678a9c0ce959817dfac042a1075f0550dac4f8d7fca1",
+    "bytes": 3073
+  },
+  {
+    "repo": "nvidia/Nemotron-Safety-Guard-Dataset-v3",
+    "path": "README.md",
+    "status": "ok",
+    "sha256": "f2def55a5ece9ba671d4f04de9913adb53049921dbfca9d77c3757d1a26e1fe5",
+    "bytes": 7119
+  },
+  {
+    "repo": "vllm-sr/jailbreak-detection-dataset",
+    "path": "README.md",
+    "status": "ok",
+    "sha256": "d5e8537abe76ba2ea706fed2bccb31e81cf75436f223e529fa875e4f19e4ec88",
+    "bytes": 3427
+  },
+  {
+    "repo": "nvidia/Nemotron-Safety-Guard-Dataset-v3",
+    "path": "zh/test.jsonl",
+    "status": "ok",
+    "sha256": "c4d090c7508fa8ee60c60512190c0b432e21bd468b47457b38b71c453e00735a",
+    "bytes": 2806283
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": "README.md",
+    "status": "ok",
+    "sha256": "77ce394a7406b94e7ebe04b63e25850733286369db2d038936a6114502923579",
+    "bytes": 9058
+  },
+  {
+    "repo": "vllm-sr/jailbreak-detection-dataset",
+    "path": ".gitattributes",
+    "status": "ok",
+    "sha256": "e7a120ab07b1bc5b486be249e9fc6c83d59448d0093e1dfebe95d1566d9cafc0",
+    "bytes": 2461
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": ".gitattributes",
+    "status": "ok",
+    "sha256": "9bf9585a262b690aa0b8dde50cecf7483cf04e213038668a0adba9303483663e",
+    "bytes": 2801
+  },
+  {
+    "repo": "vllm-sr/jailbreak-detection-dataset",
+    "path": "data/test-00000-of-00001.parquet",
+    "status": "ok",
+    "sha256": "0288db31ec15af201553f84ff0a3fea37553812e3e02309a26c45c8304cc55fd",
+    "bytes": 246982
+  },
+  {
+    "repo": "nvidia/Nemotron-Safety-Guard-Dataset-v3",
+    "path": "zh/valid.jsonl",
+    "status": "ok",
+    "sha256": "c35db73cb825679c1778932195224262e4464c79a22eb30eb0fe1340992f255e",
+    "bytes": 2271450
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": "data-collection-pipeline.png",
+    "status": "ok",
+    "sha256": "46561a1b7d20fffc40568ae556240ec2be1a6a16cee0c2f3b69999358d9e9017",
+    "bytes": 327839
+  },
+  {
+    "repo": "vllm-sr/jailbreak-detection-dataset",
+    "path": "data/validation-00000-of-00001.parquet",
+    "status": "ok",
+    "sha256": "3e1968894fd9a47f5dc044708e04fe21a99465ff68dd986057264452e9f3d554",
+    "bytes": 240853
+  },
+  {
+    "repo": "vllm-sr/jailbreak-detection-dataset",
+    "path": "data/train-00000-of-00001.parquet",
+    "status": "ok",
+    "sha256": "82b9a678d9695d0e8a8301ee01bf663dcbbcdadedc7c3a80722218d99d22363f",
+    "bytes": 672484
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": "data/Alpaca2-7B/test.jsonl",
+    "status": "ok",
+    "sha256": "391849230d41e9d0760ed7f236c7eabd6fb9332c00b9a1b301202fa8fa9d651a",
+    "bytes": 8085575
+  },
+  {
+    "repo": "nvidia/Nemotron-Safety-Guard-Dataset-v3",
+    "path": "zh/train.jsonl",
+    "status": "ok",
+    "sha256": "f52c0b8dea280d39ae469d2ea9a840739b0d87fcc8283a30dad7778bd09bf428",
+    "bytes": 33077658
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": "data/Alpaca3-8B/test.jsonl",
+    "status": "ok",
+    "sha256": "7f7ee8812fbeb52e1568a2b91d1d90bf6d0064b88ba8362198a7234d30007781",
+    "bytes": 6634022
+  },
+  {
+    "repo": "nvidia/Nemotron-Safety-Guard-Dataset-v3",
+    "path": "adapted_samples.zip",
+    "status": "ok",
+    "sha256": "c1163510c755df26c128a3f2b7e58103eb1ca1c471710bd752b6ad3cadeecda0",
+    "bytes": 34086537
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": "data/Alpaca-7B/test.jsonl",
+    "status": "ok",
+    "sha256": "fcfd18c5cd24f304a07a773f7f11c38b89ae9f8dee76e0324d740a0f34a6dd34",
+    "bytes": 8599619
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": "data/Alpaca-7B/train.jsonl",
+    "status": "ok",
+    "sha256": "e9aeebe2bbbed37d7a28561809f47c6c0622e48b170c80bc2eb72d908d2c4666",
+    "bytes": 77487588
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": "data/Alpaca2-7B/train.jsonl",
+    "status": "ok",
+    "sha256": "f7845941c570087a320121d222cbdc500189c59310c60aadaf23b14877c92e0a",
+    "bytes": 72501040
+  },
+  {
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "path": "data/Alpaca3-8B/train.jsonl",
+    "status": "ok",
+    "sha256": "21c3b4f2572444e42d161f09166471d14208c9e153fcc0ec900ae05013e47d4c",
+    "bytes": 59367911
+  }
+]

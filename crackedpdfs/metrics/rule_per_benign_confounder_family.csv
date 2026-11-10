@@ -1,0 +1,12 @@
+regime_column,regime_value,support,positive_rate,accuracy,precision,recall,f1,roc_auc,pr_auc,brier_score,subgroup_scope,false_positive_rate
+benign_confounder_family,benign_acrostic_editorial_note,80,0.0,0.3375,0.0,0.0,0.0,,,0.26874999999999993,benign_confounders_only,0.6625
+benign_confounder_family,benign_existing_stream_note,73,0.0,0.0,0.0,0.0,0.0,,,0.35999999999999993,benign_confounders_only,1.0
+benign_confounder_family,benign_in_page_invisible_note,126,0.0,0.023809523809523808,0.0,0.0,0.0,,,0.45486111111111116,benign_confounders_only,0.9761904761904762
+benign_confounder_family,benign_in_page_split_layout,112,0.0,0.008928571428571428,0.0,0.0,0.0,,,0.45421875,benign_confounders_only,0.9910714285714286
+benign_confounder_family,benign_in_page_tiny_footer,136,0.0,0.0,0.0,0.0,0.0,,,0.517922794117647,benign_confounders_only,1.0
+benign_confounder_family,benign_in_page_white_watermark,51,0.0,0.0,0.0,0.0,0.0,,,0.4288235294117646,benign_confounders_only,1.0
+benign_confounder_family,benign_layout_mimicry_note,79,0.0,0.0,0.0,0.0,0.0,,,0.3599999999999999,benign_confounders_only,1.0
+benign_confounder_family,benign_low_contrast_watermark,62,0.0,1.0,0.0,0.0,0.0,,,0.19991935483870968,benign_confounders_only,0.0
+benign_confounder_family,benign_margin_microtext,131,0.0,0.2748091603053435,0.0,0.0,0.0,,,0.36171755725190835,benign_confounders_only,0.7251908396946565
+benign_confounder_family,benign_microglyph_registration_mark,66,0.0,0.0,0.0,0.0,0.0,,,0.4899999999999998,benign_confounders_only,1.0
+benign_confounder_family,benign_semantic_fragmentation_note,57,0.0,0.0,0.0,0.0,0.0,,,0.35999999999999993,benign_confounders_only,1.0

@@ -1,0 +1,146 @@
+[
+  {
+    "name": "safe-guard-prompt-injection",
+    "repo": "xTRam1/safe-guard-prompt-injection",
+    "files": 4,
+    "bytes": 2496031,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "prompt-injection-dataset",
+    "repo": "S-Labs/prompt-injection-dataset",
+    "files": 5,
+    "bytes": 988843,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "Unified-Prompt-Guard",
+    "repo": "ynyg/Unified-Prompt-Guard",
+    "files": 5,
+    "bytes": 47363831,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "prompt_theft",
+    "repo": "LilianDK/prompt_theft",
+    "files": 3,
+    "bytes": 20964,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "browsesafe-bench",
+    "repo": "perplexity-ai/browsesafe-bench",
+    "files": 5,
+    "bytes": 189435089,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "crackedpdfs",
+    "repo": "volkthienpreecha/crackedpdfs",
+    "files": 48,
+    "bytes": 650744630,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "agentic-redteam-benchmark",
+    "repo": "jash-ai/agentic-redteam-benchmark",
+    "files": 2306,
+    "bytes": 15874145,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "MSB",
+    "repo": "DongsenZhang/MSB",
+    "files": 102,
+    "bytes": 1368192,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "AgentHazard",
+    "repo": "Yunhao-Feng/AgentHazard",
+    "files": 37,
+    "bytes": 332064656,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "prompt-corpus-zh",
+    "repo": "Croesus-K/prompt-corpus-zh",
+    "files": 22,
+    "bytes": 79682,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "JailBench",
+    "repo": "STAIR-BUPT/JailBench",
+    "files": 7,
+    "bytes": 13310911,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "InjecAgent",
+    "repo": "uiuc-kang-lab/InjecAgent",
+    "files": 24,
+    "bytes": 6380429,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "MCPTox-Benchmark",
+    "repo": "zhiqiangwang4/MCPTox-Benchmark",
+    "files": 489,
+    "bytes": 21207000,
+    "status": "complete",
+    "errors": [],
+    "supplement": false
+  },
+  {
+    "name": "jailbreak-detection-dataset",
+    "repo": "vllm-sr/jailbreak-detection-dataset",
+    "files": 5,
+    "bytes": 1166207,
+    "status": "complete",
+    "errors": [],
+    "supplement": true
+  },
+  {
+    "name": "Nemotron-Safety-Guard-Dataset-v3",
+    "repo": "nvidia/Nemotron-Safety-Guard-Dataset-v3",
+    "files": 6,
+    "bytes": 72252120,
+    "status": "complete",
+    "errors": [],
+    "supplement": true
+  },
+  {
+    "name": "PKU-SafeRLHF",
+    "repo": "PKU-Alignment/PKU-SafeRLHF",
+    "files": 9,
+    "bytes": 233015453,
+    "status": "complete",
+    "errors": [],
+    "supplement": true
+  }
+]

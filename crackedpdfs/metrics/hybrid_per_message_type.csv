@@ -1,0 +1,9 @@
+regime_column,regime_value,support,positive_rate,accuracy,precision,recall,f1,roc_auc,pr_auc,brier_score,subgroup_scope
+message_type,agent_tool_manipulation,127,1.0,1.0,1.0,1.0,1.0,,,0.009987280624868238,injected_only
+message_type,data_exfiltration,121,1.0,1.0,1.0,1.0,1.0,,,0.008878637070708838,injected_only
+message_type,instruction_override,125,1.0,1.0,1.0,1.0,1.0,,,0.010205669449477992,injected_only
+message_type,policy_framing,125,1.0,1.0,1.0,1.0,1.0,,,0.011573921913641537,injected_only
+message_type,refusal_suppression,114,1.0,1.0,1.0,1.0,1.0,,,0.013410174184247772,injected_only
+message_type,summarization_steering,120,1.0,1.0,1.0,1.0,1.0,,,0.012310067252080047,injected_only
+message_type,system_extraction,119,1.0,0.9915966386554622,1.0,0.9915966386554622,0.9957805907172996,,,0.01926167465705819,injected_only
+message_type,task_hijack,122,1.0,0.9918032786885246,1.0,0.9918032786885246,0.9958847736625515,,,0.014195499542144064,injected_only
